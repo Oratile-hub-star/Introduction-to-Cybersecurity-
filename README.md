@@ -12,4 +12,4 @@ Online banking
 Employment and financial records
 
 ##Career within Cybersecurity :
-Security Architect- I want to be a senior lever IT professional who designs,buils,abd oversees the implementation of an organisations entire computer ans network security infrastructure.
+Security Architect- I want to be a senior lever IT professional who designs,buils,abd oversees the implementation of an organisations entire computer and network security infrastructure.
